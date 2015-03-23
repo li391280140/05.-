@@ -1,0 +1,1 @@
+FlatUIKit是iOS中具有扁平化风格的UI（Flat UI）组件。FlatUIKit的设计灵感来源于Flat UI和Kyle Miller。FlatUIKit中的组件是通过扩展(category)或继承iOS SDK中已有的UIKit组件来实现的，因此在程序中使用FlatUIKit非常方便。
